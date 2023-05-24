@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Sunju!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000&animation=twinkling)
 
 <br/>
-<p align="center">✨I'm web(with blockchain) developer 🚀✨</p>
+<p align="center">✨ 블록체인 개발자가 되고 싶은 김선주 입니다 🚀✨</p>
 <br>
 <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
