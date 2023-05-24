@@ -35,7 +35,6 @@
 <p align="center">
   <a href="https://github.com/KimSunJ"><img src="https://img.shields.io/badge/github-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/KimSunJ"/></a>
   <a href="mailto:sophia10047600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sophia10047600@gmail.com"/></a>
-  <a href="sophia10047600@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sophia10047600@gmail.com"/></a>
 </p>
 <!--
 **KimSunJ/KimSunJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
